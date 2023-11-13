@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body{
+    background-image: url('https://cdn.pixabay.com/photo/2015/09/21/14/24/supermarket-949913_1280.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#titulo{
+    background-color: green;
+    text-align: center;
+    color: black;
+    padding: 10px;
+    font-family: Arial, Helvetica, Arial, Helvetica, sans-serif;
+    font-size: 3rem
+
+}
+
+#subtitulo{
+    background-color: brown;
+    padding: 5px;
+    color: whitesmoke;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem
+}
